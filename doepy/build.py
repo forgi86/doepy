@@ -1,4 +1,4 @@
-from doepy.doe_functions import (
+from .doe_functions import (
     build_full_fact,
     build_frac_fact_res,
     build_plackett_burman,
